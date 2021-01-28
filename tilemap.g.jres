@@ -1,0 +1,48 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level": {
+        "id": "level",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDYwNjA2MDYwNjA2MDYwNjA2MDYwNjA2MDYwNjAyMDUwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwNTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzA1MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA3MDUwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwNTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzA1MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA3MDUwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwNTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzA1MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA3MDUwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwNTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzA1MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA3MDUwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwNTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzA0MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODAzMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath5"
+        ],
+        "displayName": "level"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYTAwMDgwMDAxMDQwNDA0MDQwNDA0MDQwNDA3MDMwNTA1MDUwNTA1MDUwNTA1MDYwMzA1MDUwNTA1MDUwNTA1MDUwNjAzMDUwNTA1MDUwNTA1MDUwNTA2MDMwNTA1MDUwNTA1MDUwNTA1MDYwMzA1MDUwNTA1MDUwNTA1MDUwNjAzMDUwNTA1MDUwNTA1MDUwNTA2MDkwODA4MDgwODA4MDgwODA4MDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath7"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
